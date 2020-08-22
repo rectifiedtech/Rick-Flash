@@ -21,3 +21,6 @@ When the Rick Flash is powered on it will play a short tune to the Rick Roll son
 The Rick Flash can be reprogrammed using the Arduino IDE and connecting the appropriate pins from a WEMOS D1 Mini Board (without the ESP module soldered) to the programming pads on the back of the M.2 module.
 
 ![programming pads](programmingpads.jpg)
+
+### Programming the ESP8266
+Connect a headless WEMOS D1 Mini board to the Programming pads then upload your code using the arduino IDE with the WEMOS D1 Mini Board selected. Also make sure to write the html and image files to the ESP8266 via SPIFFS by selecting Tools --> ESP8266 Sketch Data Upload. You may need to add the ESP8266 boards to your boards manager as well as the libraries used in the original Arduino code.

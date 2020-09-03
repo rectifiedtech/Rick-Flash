@@ -37,6 +37,7 @@ Connect a headless WEMOS D1 Mini board to the Programming pads then upload your 
 | 1   | PCB                               | -       | Manufacturer of choice                                                                                                  | 
 | 1   | ESP-12E                           | C89297  | https://lcsc.com/product-detail/WIFI-Modules_ESP-12E_C89297.html                                                        | 
 | 1   | Piezo Buzzer MLT-8530             | C94599  | https://lcsc.com/product-detail/Buzzers_Jiangsu-Huaneng-Elec-MLT-8530_C94599.html                                       | 
+| 1   | SMD Slide Swith MSK12C02          | C431540 | https://lcsc.com/product-detail/Toggle-Switches_SHOU-HAN-MSK12C02_C431540.html                                         | 
 | 9   | Padauk Microcontroller PMS152-S16 | C317590 | https://lcsc.com/product-detail/PADAUK_PADAUK-Tech-PMS152-S16_C317590.html                                              | 
 | 4   | 10k 0805 Resistor                 | C343942 | https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FH-Guangdong-Fenghua-Advanced-Tech-RC-05K103JT_C343942.html | 
 | 1   | 1uF 0805 Capacitor                | C344171 | https://lcsc.com/product-detail/Others_CCTC-TCC0805X7R105K250DTS_C344171.html                                           | 

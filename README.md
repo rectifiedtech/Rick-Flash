@@ -3,6 +3,11 @@
 ![rickflash](rickflash.jpg)
 ![rickflash2](rickflash2.jpg)
 
+### Watch it in action
+
+https://youtu.be/qJRm4iVWZss
+
+[![Alt text](https://img.youtube.com/vi/qJRm4iVWZss/0.jpg)](https://www.youtube.com/watch?v=qJRm4iVWZss)
 
 ## Getting Started
 1. Insert Rick Flash into an M.2 SSD slot, works with both SATA and NVME SSD slots (B+M Key), keep in mind that the module is a little wider and thicker than a standard M.2 SSD and may not fit in all laptops and desktops perfectly.

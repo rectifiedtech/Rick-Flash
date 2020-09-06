@@ -9,6 +9,8 @@ https://youtu.be/qJRm4iVWZss
 
 [![Alt text](https://img.youtube.com/vi/qJRm4iVWZss/0.jpg)](https://www.youtube.com/watch?v=qJRm4iVWZss)
 
+Here's a link to the limited production run of the Rick Flash project - https://www.ebay.com/itm/264855847576 - We might not make anymore of these unless there's more demand.
+
 ## Getting Started
 1. Insert Rick Flash into an M.2 SSD slot, works with both SATA and NVME SSD slots (B+M Key), keep in mind that the module is a little wider and thicker than a standard M.2 SSD and may not fit in all laptops and desktops perfectly.
 2. If the Rick Flash does not make any sound then slide the switch on the side of the M.2 module and try again, you should hear the tune start to play.
